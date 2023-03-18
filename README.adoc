@@ -1,0 +1,4 @@
+= Magiske slanger
+
+[link=https://mybinder.org/v2/gh/sindre-nistad/bouvet-one-2023-mars-magiske-slanger/main?labpath=index.ipynb]
+image::https://mybinder.org/badge_logo.svg[Binder]
