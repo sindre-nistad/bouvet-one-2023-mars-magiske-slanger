@@ -2,3 +2,14 @@
 
 [link=https://mybinder.org/v2/gh/sindre-nistad/bouvet-one-2023-mars-magiske-slanger/main?labpath=index.ipynb]
 image::https://mybinder.org/badge_logo.svg[Binder]
+
+image::images/DALL·E 2023-03-18 20.01.53 - a cartoon snake with a black hoodie typing on a laptop.png[Laget av DALL-E med teksten "a cartoon snake with a black hoodie typing on a laptop"]
+
+== Setup
+
+[source, bash]
+----
+pip install -r requirements.txt
+
+jupyter-lab
+----
